@@ -1,0 +1,23 @@
+package: .
+import:
+- package: github.com/golang/lint
+  subpackages:
+  - golint
+- package: github.com/lukehoban/go-outline
+- package: github.com/tpng/gopkgs
+- package: github.com/nsf/gocode
+- package: github.com/rogpeppe/godef
+- package: sourcegraph.com/sqs/goreturns
+- package: golang.org/x/tools
+  subpackages:
+  - cmd/gorename
+  - cmd/guru
+- package: github.com/newhook/go-symbols
+- package: github.com/cweill/gotests
+  version: ^1.4.0
+  subpackages:
+  - '...'
+- package: github.com/derekparker/delve
+  version: ^0.11.0-alpha
+  subpackages:
+  - cmd/dlv
