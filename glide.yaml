@@ -1,4 +1,4 @@
-package: .
+package: github.com/barakb/pinger
 import:
 - package: github.com/golang/lint
   subpackages:
@@ -21,3 +21,19 @@ import:
   version: ^0.11.0-alpha
   subpackages:
   - cmd/dlv
+- package: github.com/gorilla/mux
+  version: ^1.1.0
+- package: github.com/gorilla/context
+  version: ^1.1.0
+- package: github.com/gorilla/websocket
+  version: ^1.0.0
+- package: gopkg.in/tylerb/graceful.v1
+  version: ^1.2.13
+- package: github.com/gorilla/reverse
+- package: github.com/ghodss/yaml
+- package: gopkg.in/yaml.v2
+- package: github.com/nlopes/slack
+  version: ^0.0.1
+- package: golang.org/x/net
+  subpackages:
+  - websocket

@@ -1,0 +1,47 @@
+--- # pinger.yml
+
+port: 3030
+
+timeout: 2
+
+wait_time : 5
+
+addresses:
+  - api.github.com
+  - build64A.gspaces.com
+  - github.com
+  - google.com
+  - hercules.gspaces.com
+  - newman-Win1.gspaces.com
+  - newman-Win2.gspaces.com
+  - xap-lab1002.gspaces.com
+  - xap-newman.gspaces.com
+  - xap-newman-agent-14.gspaces.com
+  - xap-newman-agent-19.gspaces.com
+  - xap-newman-agent-21.gspaces.com
+  - xap-newman-agent-22.gspaces.com
+  - xap-newman-agent-23.gspaces.com
+  - xap-newman-agent-24.gspaces.com
+  - xap-newman-agent-25.gspaces.com
+  - xap-newman-agent-26.gspaces.com
+  - xap-newman-agent-27.gspaces.com
+  - xap-newman-agent-28.gspaces.com
+  - xap-newman-agent-29.gspaces.com
+  - xap-newman-agent-30.gspaces.com
+  - xap-newman-agent-31.gspaces.com
+  - xap-newman-agent-32.gspaces.com
+  - xap-newman-agent-33.gspaces.com
+  - xap-newman-agent-34.gspaces.com
+  - xap-newman-agent-35.gspaces.com
+  - xap-newman-agent-36.gspaces.com
+  - xap-newman-agent-37.gspaces.com
+  - xap-newman-agent-38.gspaces.com
+  - xap-newman-agent-40.gspaces.com
+  - xap-newman-agent-41.gspaces.com
+  - xap-newman-agent-42.gspaces.com
+  - xap-newman-agent-43.gspaces.com
+  - xap-newman-agent-44.gspaces.com
+  - xap-newman-agent-45.gspaces.com
+  - xap-newman-agent-46.gspaces.com
+  - xap-newman-agent-47.gspaces.com
+  - xap-newman-agent-48.gspaces.com

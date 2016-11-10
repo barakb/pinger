@@ -3,3 +3,8 @@ vendor
 launch.json
 debug
 build.sh
+.idea
+*.iml
+token.txt
+pinger
+env.sh
